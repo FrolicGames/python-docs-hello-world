@@ -1,0 +1,6 @@
+Flask>=1.0,<=1.1.2
+Flask-Cors==3.0.10
+requests==2.26.0
+azure-eventgrid==4.6.0
+azure-core==1.19.0
+tinydb==4.5.2
